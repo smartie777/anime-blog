@@ -1,0 +1,50 @@
+       body{
+           background-color: lightblue;
+       }
+        h1{ font-family:"Comic Sans MS";
+            font-size: 82px;;
+            text-align:center;
+        }
+        h2{
+            font-family:"Comic Sans MS";
+            font-size: 52px;
+            text-align:center;
+        }
+        p{
+            font-family:"Comic Sans MS";
+            font-size: 30px;
+            }
+        .yaoi{
+            display: block;
+            margin: 0 auto;
+            border: 20px hotpink;
+            border-radius: 600px ;
+            border-style: solid;
+            border-width: 15px;
+        }
+        
+        
+        .anime{
+            background-color:violet;
+            border: 10px solid turquoise;
+            border-radius: 50px;
+        }
+        li {
+            font-family:"Comic Sans MS";
+            font-size: 27px;
+        }
+        
+        .cool{
+            border: 20px solid turquoise;
+            border-radius: 100px;
+            border-width: 15px;
+            background-color: lightpink;
+        }
+        
+        .manga{
+            background-color:violet;
+            border: 10px solid turquoise;
+            border-radius: 50px;
+           
+            
+        }
