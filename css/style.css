@@ -48,3 +48,12 @@
            
             
         }
+        
+        .goodgirl{ 
+            display: block;
+            margin: 0 auto;
+            border: 20px teal;
+            border-style: solid;
+            border-width: 15px;
+            border-radius: 300px;
+        }
